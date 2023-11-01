@@ -1,1 +1,0 @@
-# rock_papeer_scissor_ame
